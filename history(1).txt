@@ -1,0 +1,2 @@
+   0 mkdir -p  /opt/test/viktar; cat /root/readme.txt > /opt/test/viktar/test.txt; ps -ef | head -2 >> /opt/test/viktar/test.txt; mkdir -p  /tmp/test2/Wiktor2; mv /opt/test/viktar/test.txt /tmp/test2/Wiktor2/new2.txt; vi /tmp/test2/Wiktor2/new2.txt
+   1 history > history.txt
